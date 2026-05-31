@@ -1,1 +1,4 @@
-LICENSE.md
+*.md
+.github
+version.txt
+
