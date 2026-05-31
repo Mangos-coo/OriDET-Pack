@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE.md"
-hash = "03193bacaff45f2827fb4b32bdd2a884a41d4b6fcef893b1a0c14c76715e5196"
-
-[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "0bb40232f5746284ea4ef40618a989669fcb7eaa5df587a07139fe20d6e1a9f9"
 metafile = true
