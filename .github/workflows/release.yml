@@ -16,18 +16,20 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v6.0.2
     
-      - name: Download Packwiz
-        run: |
-            wget -L https://github.com/packwiz/packwiz/suites/57839003500/artifacts/5564323556
-            unzip Linux\ 64-bit\ x86
-            chmod +x packwiz
+#      - name: Download Packwiz
+#        run: |
+#            wget -L https://github.com/packwiz/packwiz/suites/57839003500/artifacts/5564323556
+#            unzip Linux\ 64-bit\ x86
+#            chmod +x packwiz
 
       - name: Set Version
         run: |
             echo "MODPACK_VERSION=$(cat version.txt)" >> $GITHUB_ENV
 
       - name: Export to CurseForge Pack File 
-        run: ./packwiz mr export
+        run: |
+            chmod +x packwiz
+            ./packwiz mr export
 
       - name: Create Release
         uses: ncipollo/release-action@v1.21.0
