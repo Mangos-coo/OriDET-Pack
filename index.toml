@@ -266,6 +266,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "f22b9b2717d5c14f4d1f43329e1a9afc71806a1c311108b4ae0db858e9d90569"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-beachparty.pw.toml"
 hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
