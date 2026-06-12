@@ -56,6 +56,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "d20e603af6e9156021a1b8db31edd187a089b2b21cd7f70fa7eb7507bf81dbf9"
 metafile = true
@@ -411,6 +416,11 @@ hash = "57ca1699559cc3e23320e27b1cca02b5c3687bc7c6d4506cd663570971e60dfc"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
 metafile = true
@@ -433,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+metafile = true
+
+[[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "661acc99102a88a35ea321ad78511b378a4c79297dc85521cc9b3353614f1a18"
 metafile = true
 
 [[files]]
@@ -463,6 +478,16 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "aa816798bab9cb40697b05b3069a6a6b07281f6d583328bb119b9560d13388eb"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "01a7ef9b0cc17fe8860e9779a46d329bf0d134447fe633f7e3a3617e863e9d08"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "5c0770a75c9bf48611d0fe965d6653f6904640170b42552eb25ace717a41ee6d"
 metafile = true
 
 [[files]]
