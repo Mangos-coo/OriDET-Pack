@@ -1,12 +1,12 @@
 name = "OriDET Pack"
 author = "Mangos_ & Schoperation"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bd79bc8348b0b5bdbb6aa98f502c34b95f8c4812fd511f487fd731b8f5f3d5a3"
+hash = "ddb822ac5ae17b0d049ee9a64b5234b5b4d41466a4328bea6da9997b7d93c225"
 
 [versions]
 minecraft = "1.21.1"

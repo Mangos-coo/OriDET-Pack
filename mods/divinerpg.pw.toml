@@ -1,0 +1,13 @@
+name = "DivineRPG"
+filename = "divinerpg-1.10.9.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F3kLpGw6/versions/Pk4lC3aW/divinerpg-1.10.9.3.jar"
+hash-format = "sha512"
+hash = "3dd0ca19191449491633a26ecaa592c61e31533c8357734318d8dfd26aed3742a426283c87755819fff5be34205dfb58b46b9ea07e32b2a735e6bdacd9f439c5"
+
+[update]
+[update.modrinth]
+mod-id = "F3kLpGw6"
+version = "Pk4lC3aW"
