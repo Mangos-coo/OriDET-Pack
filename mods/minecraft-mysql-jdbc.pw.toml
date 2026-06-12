@@ -1,0 +1,13 @@
+name = "Minecraft MySQL JDBC"
+filename = "mysql-connector-j-9.7.0+2026-05-03-all.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2UdFEObs/versions/XiFojYbi/mysql-connector-j-9.7.0%2B2026-05-03-all.jar"
+hash-format = "sha512"
+hash = "f56509867939cb7f6896814b401d1289f9ed167d2c2ae6d5ee30627ab704a8c66eed8ace4d9ac5d1d1a45ea5d346c0f4bf20573fcfd09e8afc5503b6fedc88dc"
+
+[update]
+[update.modrinth]
+mod-id = "2UdFEObs"
+version = "XiFojYbi"

@@ -271,6 +271,11 @@ hash = "f22b9b2717d5c14f4d1f43329e1a9afc71806a1c311108b4ae0db858e9d90569"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-beachparty.pw.toml"
 hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-mysql-jdbc.pw.toml"
+hash = "e6bdc364a30b200ad01a23ee028941ab7fc543af5b5766a4054bff1c8d1bfb94"
 metafile = true
 
 [[files]]
